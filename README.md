@@ -2,7 +2,8 @@
 Amazing food web app using ReactJS with attractive design
 
 #For nodde module folder run this command in terminal
-npm install
+
+[npm install]
 
 # Getting Started with Create React App
 
