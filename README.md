@@ -1,6 +1,9 @@
 # Food-Devlivery-Web-App-Using-ReactJS
 Amazing food web app using ReactJS with attractive design
 
+#For nodde module folder run this command in terminal
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
